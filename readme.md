@@ -73,7 +73,7 @@ After modifying the JavaSript file, we were able to provide a timed coding quiz 
 
 ## Submission
 This project was uploaded to GitHub at the following respository link:
-[https://github.com/nhanng19/challenge03](https://github.com/nhanng19/challenge04)
+[https://github.com/nhanng19/challenge04](https://github.com/nhanng19/challenge04)
 
 Deployed Web Application Link:
-[https://nhanng19.github.io/challenge03/develop/index](https://nhanng19.github.io/challenge04/Develop/index)
+[https://nhanng19.github.io/challenge04/develop/index](https://nhanng19.github.io/challenge04/Develop/index)
