@@ -76,4 +76,4 @@ This project was uploaded to GitHub at the following respository link:
 [https://github.com/nhanng19/challenge04](https://github.com/nhanng19/challenge04)
 
 Deployed Web Application Link:
-[https://nhanng19.github.io/challenge04/develop/index](https://nhanng19.github.io/challenge04/Develop/index)
+[https://nhanng19.github.io/challenge04](https://nhanng19.github.io/challenge04)
