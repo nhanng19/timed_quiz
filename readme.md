@@ -69,7 +69,7 @@ Specific functions in Highscore JavaScript file
 - Clear previous scores when users click clear
 ```
 ## The Result
-After modifying the JavaSript file, we were able to provide a secure, clean, and fully functional password generator for our client. 
+After modifying the JavaSript file, we were able to provide a timed coding quiz with a  a clean, polished, and responsive user interface for our client . 
 
 ## Submission
 This project was uploaded to GitHub at the following respository link:
