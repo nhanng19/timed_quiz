@@ -72,7 +72,7 @@ Specific functions in Highscore JavaScript file
 After modifying the JavaSript file, we were able to provide a timed coding quiz with a  a clean, polished, and responsive user interface for our client . 
 
 ## Submission
-This project was uploaded to GitHub at the following respository link:
+This project was uploaded to GitHub at the following repository link:
 [https://github.com/nhanng19/challenge04](https://github.com/nhanng19/challenge04)
 
 Deployed Web Application Link:
