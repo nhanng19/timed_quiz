@@ -10,7 +10,7 @@ var questions = [
     {
         prompt: "How do you call a function named myFunction?",
         options: ["call myFunction()", "myFunction()", "call function myFunction", "Call.myFunction"],
-        answer: "myfunction()"
+        answer: "myFunction()"
     },
 
     {
